@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/demoCard/static/css/main.62ad61cf.css",
+    "main.js": "/demoCard/static/js/main.d4cb503b.js",
+    "static/js/787.626eea6f.chunk.js": "/demoCard/static/js/787.626eea6f.chunk.js",
+    "static/media/TTVHIT-01.png": "/demoCard/static/media/TTVHIT-01.2eb1de25c48e491bd95f.png",
+    "static/media/gai nhat.jpg": "/demoCard/static/media/gai nhat.8463429d7d8c56dddd00.jpg",
+    "index.html": "/demoCard/index.html",
+    "main.62ad61cf.css.map": "/demoCard/static/css/main.62ad61cf.css.map",
+    "main.d4cb503b.js.map": "/demoCard/static/js/main.d4cb503b.js.map",
+    "787.626eea6f.chunk.js.map": "/demoCard/static/js/787.626eea6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62ad61cf.css",
+    "static/js/main.d4cb503b.js"
+  ]
+}
